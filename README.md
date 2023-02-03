@@ -1,1 +1,1 @@
-# Strat
+# Strat - this is Strat
